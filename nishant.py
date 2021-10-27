@@ -1,4 +1,3 @@
-a = list(input().split())
-d = {}
-
-print(a)
+a =int(input())
+for i in range (0,a):
+  print("*"*i+1)
