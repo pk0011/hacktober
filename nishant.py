@@ -1,4 +1,3 @@
 a = list(input().split())
-d = {}
-
+a=a+3
 print(a)
