@@ -1,3 +1,3 @@
-n=int(input())
-n=str(n)
-print(len(n))
+num=int(input())
+num=str(num)
+print(len(num))
