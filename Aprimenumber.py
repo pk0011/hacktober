@@ -7,6 +7,7 @@ for _ in range(int(input())):
                 c = True
                 break
     if c or n==0:
-        print("not prime")
+        print("not_prime")
     else:
         print("prime")
+    
