@@ -9,5 +9,5 @@ for _ in range(int(input())):
     if c or n==0:
         print("not_prime")
     else:
-        print("prime")
-    
+        print("PRIME")
+    print ("hemmlo")
