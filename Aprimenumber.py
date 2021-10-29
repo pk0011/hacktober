@@ -10,4 +10,4 @@ for _ in range(int(input())):
         print("not_prime")
     else:
         print("PRIME")
-    print ("hemmlo")
+    
